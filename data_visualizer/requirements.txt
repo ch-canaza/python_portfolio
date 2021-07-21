@@ -1,0 +1,11 @@
+python >=3.6.9
+
+# data management libraries
+numpy >=1.21.1
+bokeh >=2.3.3
+
+# testing
+pytest >=6.2.4
+requests-mock 1.9.3
+pytest-mock >=3.6.1
+mock >=4.0.3
